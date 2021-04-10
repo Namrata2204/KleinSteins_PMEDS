@@ -16,7 +16,7 @@
       <ol>
         <li><b>Guassian Naive Bayes Classifier: </b><br> Considering the relatively small size of the dataset the test accuracy for the gaussian naive bayes classifier is 100%. Note that we have made sure that the data in the test and train file is not repeated and that the test file contains atleast 1 instance of each disease to be predicted.
          </li>
-         <li><b>Decision Tree Classifier: </b> The decision tree classifier also show 100% test accuracy.
+         <li><b>Decision Tree Classifier: </b> The decision tree classifier also about 98% test accuracy.
          </li>
        </ol>
 <p>
